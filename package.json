@@ -1,0 +1,8 @@
+{
+  "name": "tang-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "TANG BOT - Tutor de Física Aplicada I con Gemini",
+  "engines": { "node": ">=18" }
+}
